@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication9.Models;
+using WebApplication9.Models.ViewModels;
+
 
 namespace WebApplication9.Controllers
 {
